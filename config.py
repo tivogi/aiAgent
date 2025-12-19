@@ -1,1 +1,2 @@
 MAX_CHARS_PER_FILE = 10000
+WORKING_DIR = "./calculator"
